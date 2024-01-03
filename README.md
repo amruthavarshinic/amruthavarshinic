@@ -9,7 +9,7 @@
 
 ## 🛠 &nbsp; Tech Stack
 ![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-red)
-![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure-blue)
+![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure%20%7C%20GCP-blue)
 ![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Bash-lemon)
 ![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-black)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform%20%7C%20Pulumi-teal)
