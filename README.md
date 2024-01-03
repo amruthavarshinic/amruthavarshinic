@@ -18,6 +18,7 @@
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Nginx-violet)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue) 
 ![Container](https://img.shields.io/badge/Containerization-Docker%20%7C%20K8S-blue)
+![Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes%20%7C%20K8S-Magenta)
 
 
 
