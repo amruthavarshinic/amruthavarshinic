@@ -13,7 +13,7 @@
 ![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Bash-lemon)
 ![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-purple)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform%20%7C%20Pulumi-teal)
-![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20GitOps%20%7C%20ArgoCD%20%7C%20FluxCD%20%7C%20Rancher-Fleet-yellow)
+![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20GitOps%20%7C%20ArgoCD%20%7C%20FluxCD%20%7C%20RancherFleet-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Nginx-violet)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue) 
