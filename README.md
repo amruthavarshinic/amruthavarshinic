@@ -16,7 +16,7 @@
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20GitOps%20%7C%20ArgoCD%20%7C%20FluxCD%20%7C%20RancherFleet-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Nginx-violet)
-![Virtualization](https://img.shields.io/badge/Virtualization%20%7C%20VMWare-skyblue) 
+![Virtualization](https://img.shields.io/badge/Virtualization-VMWare-skyblue) 
 ![Container](https://img.shields.io/badge/Containerization-Docker-blue)
 ![Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes%20%7C%20K3s%20%7C%20K3d%20%7C%20kind-magenta)
 ![API Management](https://img.shields.io/badge/API%20Management-Kong%20Gateway%20%7C%20Kong%20Konnect-blue)
