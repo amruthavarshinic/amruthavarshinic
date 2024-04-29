@@ -19,7 +19,10 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization%20%7C%20VMWare-skyblue) 
 ![Container](https://img.shields.io/badge/Containerization-Docker-blue)
 ![Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes%20%7C%20K3s%20%7C%20K3d%20%7C%20kind-magenta)
-![API Management](https://img.shields.io/badge/Orchestration-KongAPIGateway%20%7C%20KongKonnect%20%7C%20-blue)
+![API Management](https://img.shields.io/badge/API-Management-Kong%20Gateway%20%7C%20Kong%20Konnect%20%7C%20-blue)
+![Monitoring and Logging](https://img.shields.io/badge/Monitoring-and-Logging-Prometheus%20%7C%20Grafana%20%7C%20Loki%20%7C%20Thanos-lemon)
+
+
 
 
 
