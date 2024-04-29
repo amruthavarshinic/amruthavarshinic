@@ -10,15 +10,17 @@
 ## 🛠 &nbsp; Tech Stack
 ![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows%20%7C%20macOS-red)
 ![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure%20%7C%20GCP-blue)
-![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Bash-lemon)
-![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible%20%7C%20Terraform%20%7C%20Vagrant-purple)
+![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Bash/shell-scripting-lemon)
+![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible%20%7C%20Terraform-purple)
 ![Cloud](https://img.shields.io/badge/IAC-Terraform%20%7C%20Pulumi-teal)
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20GitOps%20%7C%20ArgoCD%20%7C%20FluxCD%20%7C%20RancherFleet-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Nginx-violet)
-![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant%20%7C%20VMWare-skyblue) 
+![Virtualization](https://img.shields.io/badge/Virtualization%20%7C%20VMWare-skyblue) 
 ![Container](https://img.shields.io/badge/Containerization-Docker-blue)
 ![Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes%20%7C%20K3s%20%7C%20K3d%20%7C%20kind-magenta)
+![API Management](https://img.shields.io/badge/Orchestration-KongAPIGateway%20%7C%20KongKonnect%20%7C%20-blue)
+
 
 
 
