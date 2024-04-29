@@ -21,6 +21,8 @@
 ![Orchestration](https://img.shields.io/badge/Orchestration-Kubernetes%20%7C%20K3s%20%7C%20K3d%20%7C%20kind-magenta)
 ![API Management](https://img.shields.io/badge/API%20Management-Kong%20Gateway%20%7C%20Kong%20Konnect-blue)
 ![Monitoring and Logging](https://img.shields.io/badge/Monitoring%20and%20Logging-Prometheus%20%7C%20Grafana%20%7C%20Loki%20%7C%20Thanos-cloud%20Watch%20%7C%20Filelog%20%7C%20Datadog-lemon)
+![Authentication](https://img.shields.io/badge/Authentication-LDAP%20%7C%20OIDC%20%7C%20Azure%20AD%20%7C%20Okta%20%7C%20Sales%20Force-purple)
+
 
 
 
